@@ -1,0 +1,48 @@
+Senior AI Engineer / Python Full Stack Developer
+
+Location: Remote
+Experience: 3+ years
+Employment Type: Full-time
+
+About the Role
+
+We are looking for a Senior AI Engineer / Python Full Stack Developer to build intelligent web applications that combine modern NLP, machine learning, and scalable backend engineering. The ideal candidate is experienced in Python application development, model integration, data processing, and building user-facing analytics dashboards.
+
+Responsibilities
+
+- Design, develop, and maintain AI-powered web applications using Python and Streamlit
+- Build modules for resume parsing, text preprocessing, semantic similarity analysis, and recommendation generation
+- Develop backend services and REST APIs for document analysis workflows
+- Implement machine learning and NLP pipelines using spaCy, scikit-learn, and sentence-transformer-based embeddings
+- Create data visualizations and interactive dashboards using pandas, matplotlib, and plotly
+- Optimize application performance, modularity, and production readiness
+- Collaborate with product, design, and engineering stakeholders to translate business requirements into reliable software
+- Write clean, testable, and maintainable code following PEP 8 and modern software engineering practices
+- Implement automated tests and CI pipelines using GitHub Actions
+- Document architecture, setup, usage, and future roadmap for internal and external users
+
+Required Qualifications
+
+- Strong proficiency in Python 3
+- Experience with Streamlit, Flask, or FastAPI
+- Hands-on experience with spaCy, scikit-learn, or other NLP / ML frameworks
+- Familiarity with Sentence Transformers or semantic search techniques
+- Experience parsing PDF and DOCX documents
+- Knowledge of pandas for data analysis and manipulation
+- Experience using matplotlib or plotly for reporting and analytics dashboards
+- Understanding of REST API design and backend service development
+- Familiarity with Git, GitHub, and CI/CD workflows
+- Knowledge of object-oriented programming, clean architecture, and error handling best practices
+- Experience writing unit tests with pytest
+- Strong communication, collaboration, and problem-solving skills
+
+Preferred Qualifications
+
+- Experience with Docker and cloud platforms such as AWS, Azure, or GCP
+- Familiarity with resume screening, ATS workflows, or HR technology products
+- Experience with vector similarity systems or recommendation engines
+- Exposure to LLM-based assistants, prompt engineering, or retrieval-augmented workflows
+
+Key Skills
+
+Python, Streamlit, spaCy, Sentence Transformers, scikit-learn, pandas, matplotlib, plotly, PyPDF2, python-docx, REST API, machine learning, NLP, GitHub Actions, pytest, Docker, AWS, communication, problem solving
